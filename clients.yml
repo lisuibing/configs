@@ -7,5 +7,5 @@ spring:
       discovery:
         service-name: ${spring.application.name}
        
-name=zhangsan       
+name：zhangsan       
        
